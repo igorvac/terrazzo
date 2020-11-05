@@ -2,7 +2,7 @@ function granilite(x, y, siz) {
   let pos = [x, y];
   const orign = pos[0];
   let poly = [];
-  let colors = ["#BC7B46", "#D9B576", "#638692"];
+  let colors = ["#BC7B45", "#D9B576", "#638692"];
   noFill();
   for (let i = 0; i < 4; i++) {
     for (let j = 0; j < 4; j++) {
